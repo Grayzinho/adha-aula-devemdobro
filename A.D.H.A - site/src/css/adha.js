@@ -1,0 +1,2 @@
+alert("olá")
+console(true)
